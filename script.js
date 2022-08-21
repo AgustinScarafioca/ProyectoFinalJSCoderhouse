@@ -297,4 +297,3 @@ const actualizarCarrito = () => {
     cartCounter.innerText = carrito.length
     totalPrice.innerText = carrito.reduce((acc,prod) => acc + prod.price, 0)
 }
-

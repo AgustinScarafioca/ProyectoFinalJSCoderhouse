@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name" : "Sauron",
+        "price" : 1500,
+        "img" : "sauron-pop.jpg"
+    },
+
+    {
+        "id": 2,
+        "name" : "Frodo Bolson",
+        "price" : 2000,
+        "img" : "frodo-pop.jpg"
+    },
+
+    {
+        "id": 3,
+        "name" : "Smaug",
+        "price" : 1800,
+        "img" : "smaug-pop.jpg"
+    },
+
+    {
+        "id": 4,
+        "name" : "Stormtrooper",
+        "price" : 800,
+        "img" : "stormtrooper-pop.jpg"
+    },
+
+    {
+        "id": 5,
+        "name" : "Darth Vader",
+        "price" : 1200,
+        "img" : "vader-pop.jpg"
+    },
+
+    {
+        "id": 6,
+        "name" : "Han Solo",
+        "price" : 1400,
+        "img" : "hansolo-pop.jpg"
+    }
+]

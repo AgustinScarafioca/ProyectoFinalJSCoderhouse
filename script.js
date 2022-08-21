@@ -223,10 +223,10 @@ allProducts.forEach(producto => {
     div.innerHTML += `
     <div class="itemProducto container card col-md-6 p-3">
         <h2 class="itemProducto-title text-center">${producto.name}</h2>
-        <img src= "./Assets/${producto.img}" class="thumbnail">
-        <div class="itemProducto-details">
-            <span class="itemProducto-price">$${producto.price}</span>
-            <button id= "agregar${producto.id}" class="btn btn-primary agregarItem__boton" type="button">Agregar al carrito</button>
+        <img src= "./Assets/${producto.img}" class="img-thumbnail">
+        <div class="text-center p-3">
+            <span class="itemProducto-price p-5">$${producto.price}</span>
+            <button id= "agregar${producto.id}" class="btn btn-primary m-2 p-1" type="button">Agregar al carrito</button>
         </div>
     </div>
     `
